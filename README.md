@@ -10,7 +10,6 @@
 
 - 📄 My experiences [https://hh.ru/resume/c5bc7037ff0b2931140039ed1f4a33656a3879](https://hh.ru/resume/c5bc7037ff0b2931140039ed1f4a33656a3879)
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
