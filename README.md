@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bogdan</h1>
 <img align="right" alt="Coding" width="250" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif" >
 
-- 👨‍💻 All of my projects are available at [https://effulgent-brigadeiros-8b54e7.netlify.app](https://effulgent-brigadeiros-8b54e7.netlify.app)
+- 👨‍💻 All of my projects are available at my portfolio [https://effulgent-brigadeiros-8b54e7.netlify.app](https://effulgent-brigadeiros-8b54e7.netlify.app)
 
 - 💬 Ask me about **react, js, ts, redux**
 
